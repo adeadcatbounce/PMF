@@ -9,7 +9,7 @@ import numpy as np
 Scipy Binom - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html
 """
 
-# Estimating probability mass function to get k heads, in 10 trials, with a probability of getting a heads (1/2)
+# Estimating probability mass function to get k heads, in ten trials, with a probability of getting a heads (1/2)
 
 number_heads = []
 heads = []
